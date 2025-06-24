@@ -1,0 +1,24 @@
+﻿@page
+@model Bezaleel_Bagoes_A_A_fdtest.Pages.Home.IndexModel
+@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="main-container">
+    <div method="get" class="login-form">
+        <h2>👋 Welcome, @Model.Name</h2>
+        <h4 id="clock">🕒 Loading time...</h4>
+        <p><strong>Email:</strong> @Model.Email</p>
+        <p><strong>Status:</strong> @(Model.IsVerified ? "✅ Verified" : "❌ Not Verified")</p>
+
+        <div class="form-links">
+            <a asp-page="/Auth/ChangePassword">Change Password</a> |
+            <a asp-page="/Home/UserList">User List</a> |
+            <a asp-page="/BookList/Index">Book List</a> |
+            <a asp-page="/Auth/Logout">Logout</a>
+        </div>
+    </div>
+</div>
+
+
+

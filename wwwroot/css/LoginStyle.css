@@ -1,0 +1,120 @@
+﻿:root {
+    --bg: #f9f9f9;
+    --fg: #333;
+    --input-bg: #fff;
+    --input-border: #ccc;
+    --link: #007bff;
+    --link-hover: #0056b3;
+    --btn-bg: #007bff;
+    --btn-hover: #0056b3;
+    --error: red;
+}
+
+body[data-theme="dark"] {
+    --bg: #1e1e1e;
+    --fg: #f5f5f5;
+    --input-bg: #2a2a2a;
+    --input-border: #444;
+    --link: #66b0ff;
+    --link-hover: #3399ff;
+    --btn-bg: #3399ff;
+    --btn-hover: #1a7acc;
+    --error: #ff6666;
+}
+
+body {
+    background-color: var(--bg);
+    color: var(--fg);
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.login-container {
+    max-width: 400px;
+    margin: 50px auto;
+    background: var(--bg);
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.2);
+    font-family: sans-serif;
+    color: var(--fg);
+    position: relative;
+}
+
+    .login-container h2 {
+        text-align: center;
+        margin-bottom: 1.5rem;
+    }
+
+.login-form .form-group {
+    margin-bottom: 1rem;
+}
+
+.login-form label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 0.3rem;
+}
+
+.login-form input[type="email"],
+.login-form input[type="password"] {
+    width: 100%;
+    padding: 0.5rem;
+    background-color: var(--input-bg);
+    border: 1px solid var(--input-border);
+    border-radius: 4px;
+    color: var(--fg);
+}
+
+.login-form input::placeholder {
+    color: #888;
+}
+
+.form-links {
+    text-align: center;
+    margin: 1rem 0;
+    font-size: 0.9rem;
+}
+
+    .form-links a {
+        margin: 0 5px;
+        color: var(--link);
+        text-decoration: none;
+    }
+
+        .form-links a:hover {
+            text-decoration: underline;
+            color: var(--link-hover);
+        }
+
+.btn-login {
+    width: 100%;
+    padding: 0.6rem;
+    background: var(--btn-bg);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+    .btn-login:hover {
+        background: var(--btn-hover);
+    }
+
+.login-error {
+    color: var(--error);
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.theme-toggle {
+    position: relative; 
+    background: none;
+    border: none;
+    font-size: 1.4rem;
+    cursor: pointer;
+    color: var(--fg);
+    margin-right: 10px;
+}
+
+

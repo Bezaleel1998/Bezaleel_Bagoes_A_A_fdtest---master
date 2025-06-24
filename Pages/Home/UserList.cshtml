@@ -1,0 +1,71 @@
+﻿@page
+@model Bezaleel_Bagoes_A_A_fdtest.Pages.Home.UserListModel
+@{
+    ViewData["Title"] = "User List";
+}
+
+<div class="main-container">
+    <h2>👥 User List</h2>
+
+    <form method="get" class="login-form">
+        <div class="form-group">
+            <input type="text" name="SearchQuery" value="@Model.SearchQuery" placeholder="Search name or email..." class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <select name="Filter" class="form-control">
+                <option value="">-- Filter by Status --</option>
+                <option value="verified" selected="@(Model.Filter == "verified")">Verified</option>
+                <option value="unverified" selected="@(Model.Filter == "unverified")">Unverified</option>
+            </select>
+        </div>
+
+        <button type="submit" class="btn-login">Apply</button>
+    </form>
+
+    <div class="form-links" style="margin-bottom: 1rem;">
+        <a asp-page="/Home/Index">← Back to Home</a>
+    </div>
+
+    @if (!Model.Users.Any())
+    {
+        <p>No users found.</p>
+    }
+    else
+    {
+        <table style="width: 100%; border-collapse: collapse;">
+            <thead>
+                <tr style="border-bottom: 1px solid var(--input-border);">
+                    <th style="text-align:left;">Name</th>
+                    <th style="text-align:left;">Email</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var user in Model.Users)
+                {
+                    <tr>
+                        <td>@user.Name</td>
+                        <td>@user.Email</td>
+                        <td>@(user.IsEmailVerified ? "✅ Verified" : "❌ Unverified")</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <div style="margin-top: 1rem;">
+            Page:
+            @for (int i = 1; i <= Model.TotalPages; i++)
+            {
+                <form method="get" style="display:inline;">
+                    <input type="hidden" name="SearchQuery" value="@Model.SearchQuery" />
+                    <input type="hidden" name="Filter" value="@Model.Filter" />
+                    <input type="hidden" name="CurrentPage" value="@i" />
+                    <button type="submit" style="margin-right: 6px; @(i == Model.CurrentPage ? "font-weight:bold;" : "")">
+                        @i
+                    </button>
+                </form>
+            }
+        </div>
+    }
+</div>

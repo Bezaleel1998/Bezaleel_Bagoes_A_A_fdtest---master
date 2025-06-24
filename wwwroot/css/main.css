@@ -1,0 +1,50 @@
+﻿.main-container {
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 2rem;
+    border-radius: 8px;
+    background-color: var(--bg);
+    color: var(--fg);
+    font-family: sans-serif;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+    .main-container h2 {
+        font-size: 1.8rem;
+        margin-bottom: 1rem;
+    }
+
+    .main-container h4 {
+        font-size: 1.2rem;
+        color: var(--fg);
+    }
+
+.table-wrapper {
+    overflow-x: auto;
+}
+
+.main-container table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+}
+
+.main-container th,
+.main-container td {
+    padding: 0.6rem;
+    border-bottom: 1px solid var(--input-border);
+    text-align: left;
+}
+
+.form-links {
+    margin-top: 1rem;
+    font-size: 0.95rem;
+}
+
+.pagination-buttons {
+    margin-top: 1rem;
+}
+
+    .pagination-buttons form {
+        display: inline;
+    }

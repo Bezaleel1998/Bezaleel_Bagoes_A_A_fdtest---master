@@ -1,0 +1,67 @@
+﻿@page
+@model Bezaleel_Bagoes_A_A_fdtest.Pages.BookList.IndexModel
+
+@{
+    ViewData["Title"] = "Your Books";
+}
+
+<div class="book-container">
+    <h2>📚 Your Books</h2>
+
+    <div class="form-links">
+        <a asp-page="/BookList/Create">➕ Add Book</a> |
+        <a asp-page="/Home/Index">🏠 Home</a>
+    </div>
+
+    <form method="get" class="book-filter">
+        <input type="text" name="SearchQuery" placeholder="Search title or author..." value="@Model.SearchQuery" />
+
+        <select name="RatingRange">
+            <option value="">-- Rating Range --</option>
+            @foreach (var range in new[] { "0-1", "1-2", "2-3", "3-4", "4-5" })
+            {
+                <option value="@range" selected="@(Model.RatingRange == range)">@range.Replace("-", "–")</option>
+            }
+        </select>
+
+        <button type="submit">Filter</button>
+    </form>
+
+    @if (!Model.Books.Any())
+    {
+        <p>You have not added any books yet.</p>
+    }
+    else
+    {
+        <div class="book-list">
+            @foreach (var book in Model.Books)
+            {
+                <div class="book-item">
+                    <strong>@book.Title</strong> by <em>@book.Author</em><br />
+                    Rating: @book.Rating ⭐<br />
+                    @if (!string.IsNullOrEmpty(book.ThumbnailUrl))
+                    {
+                        <img src="@book.ThumbnailUrl" width="100" alt="Cover" />
+                    }
+                    <p>@book.Description</p>
+                    <small>Uploaded at: @book.CreatedAt.ToString("yyyy-MM-dd")</small><br />
+                    <a asp-page="/BookList/Edit" asp-route-id="@book.BookId">✏️ Edit</a> |
+                    <a asp-page="/BookList/Delete" asp-route-id="@book.BookId">🗑️ Delete</a>
+                </div>
+            }
+        </div>
+
+        <div class="pagination">
+            Page:
+            @for (int i = 1; i <= Model.TotalPages; i++)
+            {
+                <form method="get" style="display:inline;">
+                    <input type="hidden" name="CurrentPage" value="@i" />
+                    <input type="hidden" name="SearchQuery" value="@Model.SearchQuery" />
+                    <input type="hidden" name="RatingRange" value="@Model.RatingRange" />
+                    <button type="submit" class="page-btn @(i == Model.CurrentPage ? "active" : "")">@i</button>
+                </form>
+            }
+        </div>
+    }
+</div>

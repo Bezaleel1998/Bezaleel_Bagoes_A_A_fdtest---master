@@ -1,0 +1,17 @@
+﻿@page
+@model Bezaleel_Bagoes_A_A_fdtest.Pages.BookList.DeleteModel
+@{
+    ViewData["Title"] = "Delete Book";
+}
+
+<div class="book-container">
+    <h2>🗑️ Delete Book</h2>
+
+    <p>Are you sure you want to delete <strong>@Model.Book?.Title</strong>?</p>
+
+    <form method="post" class="book-form">
+        <input type="hidden" asp-for="Book.BookId" />
+        <button type="submit" class="btn-delete">Yes, Delete</button>
+        <a asp-page="/BookList/Index" class="form-links">← Cancel</a>
+    </form>
+</div>

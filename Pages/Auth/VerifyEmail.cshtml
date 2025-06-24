@@ -1,0 +1,17 @@
+﻿@page
+@model Bezaleel_Bagoes_A_A_fdtest.Pages.Auth.VerifyEmailModel
+@{
+    ViewData["Title"] = "Email Verification";
+}
+
+<div class="login-container">
+    <h2>📧 Email Verification</h2>
+
+    <p class="@(Model.Message?.Contains("success", StringComparison.OrdinalIgnoreCase) == true ? "text-success" : "login-error")">
+        @Html.Raw(Model.Message)
+    </p>
+
+    <div class="form-links">
+        <a asp-page="/Auth/Login">← Back to Login</a>
+    </div>
+</div>

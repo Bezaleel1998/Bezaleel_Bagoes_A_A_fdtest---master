@@ -1,0 +1,68 @@
+﻿@page
+@model Bezaleel_Bagoes_A_A_fdtest.Pages.BookList.Landing.BooksModel
+
+@{
+    ViewData["Title"] = "Book List";
+}
+
+<div class="book-container">
+    <h2>📚 All Uploaded Books</h2>
+
+    <div class="form-links">
+        <a asp-page="/Auth/Login">Login</a>
+    </div>
+
+    <form method="get" class="book-filter">
+        <input type="text" name="Author" placeholder="Filter by Author" value="@Model.Author" />
+
+        <select name="RatingRange">
+            <option value="">-- Rating Range --</option>
+            @foreach (var range in new[] { "0-1", "1-2", "2-3", "3-4", "4-5" })
+            {
+                <option value="@range" selected="@(Model.RatingRange == range)">@range.Replace("-", "–")</option>
+            }
+        </select>
+
+        <input type="date" name="FromDate" value="@Model.FromDate?.ToString("yyyy-MM-dd")" />
+        <input type="date" name="ToDate" value="@Model.ToDate?.ToString("yyyy-MM-dd")" />
+        <button type="submit">Filter</button>
+    </form>
+
+    @if (!Model.Books.Any())
+    {
+        <p>No books found.</p>
+    }
+    else
+    {
+        <div class="book-list">
+            @foreach (var book in Model.Books)
+            {
+                <div class="book-item">
+                    <strong>@book.Title</strong> by <em>@book.Author</em><br />
+                    Rating: @book.Rating ⭐<br />
+                    @if (!string.IsNullOrEmpty(book.ThumbnailUrl))
+                    {
+                        <img src="@book.ThumbnailUrl" width="100" alt="Cover" />
+                    }
+                    <p>@book.Description</p>
+                    <small>Uploaded at: @book.CreatedAt.ToString("yyyy-MM-dd")</small>
+                </div>
+            }
+        </div>
+
+        <div class="pagination">
+            Page:
+            @for (int i = 1; i <= Model.TotalPages; i++)
+            {
+                <form method="get" style="display:inline;">
+                    <input type="hidden" name="Author" value="@Model.Author" />
+                    <input type="hidden" name="RatingRange" value="@Model.RatingRange" />
+                    <input type="hidden" name="FromDate" value="@Model.FromDate?.ToString("yyyy-MM-dd")" />
+                    <input type="hidden" name="ToDate" value="@Model.ToDate?.ToString("yyyy-MM-dd")" />
+                    <input type="hidden" name="CurrentPage" value="@i" />
+                    <button type="submit" class="page-btn @(i == Model.Page ? "active" : "")">@i</button>
+                </form>
+            }
+        </div>
+    }
+</div>

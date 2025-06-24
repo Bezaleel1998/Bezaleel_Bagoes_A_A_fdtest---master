@@ -1,0 +1,42 @@
+﻿@page
+@model Bezaleel_Bagoes_A_A_fdtest.Pages.Auth.LoginModel
+@{
+    ViewData["Title"] = "Login";
+    Layout = "_Layout"; 
+}
+
+<div class="login-container">
+    <h2>🔐 Login</h2>
+
+    <form method="post" class="login-form">
+        <div class="form-group">
+            <label asp-for="Input.Email"></label>
+            <input asp-for="Input.Email" type="email" class="form-control" />
+            <span asp-validation-for="Input.Email" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Input.Password"></label>
+            <input asp-for="Input.Password" type="password" class="form-control" />
+            <span asp-validation-for="Input.Password" class="text-danger"></span>
+        </div>
+
+        <div class="form-links">
+            <a asp-page="/Auth/ForgotPassword">Forgot your password?</a> |
+            <a asp-page="/Auth/Register">Create account</a> |
+            <a asp-page="/BookList/Landing/Books">Book List</a>
+        </div>
+
+        <button type="submit" class="btn-login">Login</button>
+    </form>
+
+    @if (!string.IsNullOrEmpty(Model.Message))
+    {
+        <p class="login-error">@Model.Message</p>
+    }
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
