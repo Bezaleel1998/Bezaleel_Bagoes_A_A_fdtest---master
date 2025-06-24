@@ -46,7 +46,7 @@ When installing or modifying Visual Studio (Community):
 🧾 Installation Steps
 1. 📦 Clone the project using git bash terminal / windows powershells.
 
-        git clone https://github.com/Bezaleel1998/Bezaleel_Bagoes_A_A_fdtest.git
+        git clone https://github.com/Bezaleel1998/Bezaleel_Bagoes_A_A_fdtest---master.git
 
    now open the folder location of the cloned project.
 
