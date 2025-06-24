@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - Copy\\",
+  "WorkspaceRootPath": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|i:\\project\\dotnet\\bezaleel_bagoes_a_a_fdtest - copy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|i:\\project\\dotnet\\bezaleel_bagoes_a_a_fdtest - master\\pages\\booklist\\landing\\books.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|solutionrelative:pages\\booklist\\landing\\books.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|i:\\project\\dotnet\\bezaleel_bagoes_a_a_fdtest - copy\\pages\\auth\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|solutionrelative:pages\\auth\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|i:\\project\\dotnet\\bezaleel_bagoes_a_a_fdtest - master\\pages\\booklist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|solutionrelative:pages\\booklist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|i:\\project\\dotnet\\bezaleel_bagoes_a_a_fdtest - copy\\pages\\auth\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|solutionrelative:pages\\auth\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|i:\\project\\dotnet\\bezaleel_bagoes_a_a_fdtest - master\\wwwroot\\css\\bookpagestyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|solutionrelative:wwwroot\\css\\bookpagestyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|i:\\project\\dotnet\\bezaleel_bagoes_a_a_fdtest - copy\\data\\emailverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|solutionrelative:data\\emailverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|i:\\project\\dotnet\\bezaleel_bagoes_a_a_fdtest - master\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|solutionrelative:pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|i:\\project\\dotnet\\bezaleel_bagoes_a_a_fdtest - copy\\data\\passwordresetrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|solutionrelative:data\\passwordresetrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|i:\\project\\dotnet\\bezaleel_bagoes_a_a_fdtest - master\\pages\\booklist\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|solutionrelative:pages\\booklist\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|i:\\project\\dotnet\\bezaleel_bagoes_a_a_fdtest - copy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|i:\\project\\dotnet\\bezaleel_bagoes_a_a_fdtest - master\\pages\\booklist\\landing\\books.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|solutionrelative:pages\\booklist\\landing\\books.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,96 +33,95 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 248,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - Copy\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - Copy\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-24T17:03:19.921Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
+            },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - Copy\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - Copy\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T17:07:02.76Z",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml",
+              "ToolTip": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T18:17:43.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ForgotPassword.cshtml.cs",
-              "DocumentMoniker": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - Copy\\Pages\\Auth\\ForgotPassword.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Auth\\ForgotPassword.cshtml.cs",
-              "ToolTip": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - Copy\\Pages\\Auth\\ForgotPassword.cshtml.cs",
-              "RelativeToolTip": "Pages\\Auth\\ForgotPassword.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T17:06:02.045Z",
+              "Title": "BookPageStyle.css",
+              "DocumentMoniker": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\wwwroot\\css\\BookPageStyle.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\BookPageStyle.css",
+              "ToolTip": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\wwwroot\\css\\BookPageStyle.css",
+              "RelativeToolTip": "wwwroot\\css\\BookPageStyle.css",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-24T17:56:20.176Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - Copy\\Pages\\Auth\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Auth\\Register.cshtml.cs",
-              "ToolTip": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - Copy\\Pages\\Auth\\Register.cshtml.cs",
-              "RelativeToolTip": "Pages\\Auth\\Register.cshtml.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T17:05:25.429Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\Pages\\BookList\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\BookList\\Index.cshtml",
+              "ToolTip": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\Pages\\BookList\\Index.cshtml",
+              "RelativeToolTip": "Pages\\BookList\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T17:54:17.143Z",
               "EditorCaption": ""
             },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Books.cshtml",
+              "DocumentMoniker": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\Pages\\BookList\\Landing\\Books.cshtml",
+              "RelativeDocumentMoniker": "Pages\\BookList\\Landing\\Books.cshtml",
+              "ToolTip": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\Pages\\BookList\\Landing\\Books.cshtml",
+              "RelativeToolTip": "Pages\\BookList\\Landing\\Books.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T17:54:01.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 192,
+          "SelectedChildIndex": 0,
+          "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "PasswordResetRequest.cs",
-              "DocumentMoniker": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - Copy\\Data\\PasswordResetRequest.cs",
-              "RelativeDocumentMoniker": "Data\\PasswordResetRequest.cs",
-              "ToolTip": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - Copy\\Data\\PasswordResetRequest.cs",
-              "RelativeToolTip": "Data\\PasswordResetRequest.cs",
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\Pages\\BookList\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\BookList\\Index.cshtml.cs",
+              "ToolTip": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\Pages\\BookList\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\BookList\\Index.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T17:05:01.115Z",
+              "WhenOpened": "2025-06-24T17:54:20.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EmailVerification.cs",
-              "DocumentMoniker": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - Copy\\Data\\EmailVerification.cs",
-              "RelativeDocumentMoniker": "Data\\EmailVerification.cs",
-              "ToolTip": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - Copy\\Data\\EmailVerification.cs",
-              "RelativeToolTip": "Data\\EmailVerification.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Books.cshtml.cs",
+              "DocumentMoniker": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\Pages\\BookList\\Landing\\Books.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\BookList\\Landing\\Books.cshtml.cs",
+              "ToolTip": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\Pages\\BookList\\Landing\\Books.cshtml.cs",
+              "RelativeToolTip": "Pages\\BookList\\Landing\\Books.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T17:03:41.213Z",
+              "WhenOpened": "2025-06-24T17:54:04.032Z",
               "EditorCaption": ""
             }
           ]

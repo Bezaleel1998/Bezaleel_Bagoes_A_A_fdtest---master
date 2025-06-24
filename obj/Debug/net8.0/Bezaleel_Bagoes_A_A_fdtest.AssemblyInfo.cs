@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bezaleel_Bagoes_A_A_fdtest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e8399564700031ea994c9603d036779fec550d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bezaleel_Bagoes_A_A_fdtest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bezaleel_Bagoes_A_A_fdtest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

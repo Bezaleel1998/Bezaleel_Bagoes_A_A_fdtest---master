@@ -9,97 +9,97 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Bezaleel_Bagoes_A_A_fdtest
 build_property.RootNamespace = Bezaleel_Bagoes_A_A_fdtest
-build_property.ProjectDir = I:\Project\DotNet\Bezaleel_Bagoes_A_A_fdtest - Copy\
+build_property.ProjectDir = I:\Project\DotNet\Bezaleel_Bagoes_A_A_fdtest - master\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = I:\Project\DotNet\Bezaleel_Bagoes_A_A_fdtest - Copy
+build_property.MSBuildProjectDirectory = I:\Project\DotNet\Bezaleel_Bagoes_A_A_fdtest - master
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - Copy/Pages/Auth/ChangePassword.cshtml]
+[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - master/Pages/Auth/ChangePassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxDaGFuZ2VQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - Copy/Pages/Auth/ForgotPassword.cshtml]
+[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - master/Pages/Auth/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - Copy/Pages/Auth/Login.cshtml]
+[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - master/Pages/Auth/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - Copy/Pages/Auth/Logout.cshtml]
+[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - master/Pages/Auth/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - Copy/Pages/Auth/Register.cshtml]
+[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - master/Pages/Auth/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - Copy/Pages/Auth/ResetPassword.cshtml]
+[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - master/Pages/Auth/ResetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - Copy/Pages/Auth/VerifyEmail.cshtml]
+[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - master/Pages/Auth/VerifyEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxWZXJpZnlFbWFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - Copy/Pages/BookList/Create.cshtml]
+[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - master/Pages/BookList/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va0xpc3RcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - Copy/Pages/BookList/Delete.cshtml]
+[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - master/Pages/BookList/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va0xpc3RcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - Copy/Pages/BookList/Edit.cshtml]
+[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - master/Pages/BookList/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va0xpc3RcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - Copy/Pages/BookList/Index.cshtml]
+[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - master/Pages/BookList/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va0xpc3RcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - Copy/Pages/BookList/Landing/Books.cshtml]
+[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - master/Pages/BookList/Landing/Books.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va0xpc3RcTGFuZGluZ1xCb29rcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - Copy/Pages/Error.cshtml]
+[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - master/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - Copy/Pages/Home/Index.cshtml]
+[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - master/Pages/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - Copy/Pages/Home/UserList.cshtml]
+[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - master/Pages/Home/UserList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVxVc2VyTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - Copy/Pages/Index.cshtml]
+[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - master/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - Copy/Pages/Privacy.cshtml]
+[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - master/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - Copy/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - master/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - Copy/Pages/_ViewImports.cshtml]
+[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - master/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - Copy/Pages/_ViewStart.cshtml]
+[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - master/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - Copy/Pages/Shared/_Layout.cshtml]
+[I:/Project/DotNet/Bezaleel_Bagoes_A_A_fdtest - master/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-c0ruhynrrz

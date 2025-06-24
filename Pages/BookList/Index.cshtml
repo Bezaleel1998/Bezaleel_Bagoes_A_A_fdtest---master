@@ -27,6 +27,8 @@
         <button type="submit">Filter</button>
     </form>
 
+    <br></br>
+
     @if (!Model.Books.Any())
     {
         <p>You have not added any books yet.</p>
@@ -37,16 +39,23 @@
             @foreach (var book in Model.Books)
             {
                 <div class="book-item">
-                    <strong>@book.Title</strong> by <em>@book.Author</em><br />
-                    Rating: @book.Rating ⭐<br />
-                    @if (!string.IsNullOrEmpty(book.ThumbnailUrl))
-                    {
-                        <img src="@book.ThumbnailUrl" width="100" alt="Cover" />
-                    }
-                    <p>@book.Description</p>
-                    <small>Uploaded at: @book.CreatedAt.ToString("yyyy-MM-dd")</small><br />
-                    <a asp-page="/BookList/Edit" asp-route-id="@book.BookId">✏️ Edit</a> |
-                    <a asp-page="/BookList/Delete" asp-route-id="@book.BookId">🗑️ Delete</a>
+                    <div class="book-card">
+                        <div class="book-card-image">
+                            <img src="@book.ThumbnailUrl" alt="Cover" />
+                        </div>
+
+                        <div class="book-card-details">
+                            <h3>@book.Title</h3>
+                            <p><em>by @book.Author</em></p>
+                            <p>Rating: @book.Rating @RenderStars(book.Rating)</p>
+                            <p>@book.Description</p>
+                            <p><small>Uploaded at: @book.CreatedAt.ToString("yyyy-MM-dd")</small></p>
+                            <p>
+                                <a asp-page="/BookList/Edit" asp-route-id="@book.BookId">✏️ Edit</a> |
+                                <a asp-page="/BookList/Delete" asp-route-id="@book.BookId">🗑️ Delete</a>
+                            </p>
+                        </div>
+                    </div>
                 </div>
             }
         </div>
@@ -65,3 +74,20 @@
         </div>
     }
 </div>
+
+@functions {
+    public IHtmlContent RenderStars(float? rating)
+    {
+        var value = rating ?? 0f;
+        int fullStars = (int)Math.Floor(value);
+        bool halfStar = value % 1 >= 0.5f;
+        int emptyStars = 5 - fullStars - (halfStar ? 1 : 0);
+
+        var html = new System.Text.StringBuilder();
+        for (int i = 0; i < fullStars; i++) html.Append("<span class='star full'>★</span>");
+        if (halfStar) html.Append("<span class='star half'>★</span>");
+        for (int i = 0; i < emptyStars; i++) html.Append("<span class='star empty'>★</span>");
+
+        return new HtmlString(html.ToString());
+    }
+}

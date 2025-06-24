@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - Copy\\Bezaleel_Bagoes_A_A_fdtest.csproj": {}
+    "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\Bezaleel_Bagoes_A_A_fdtest.csproj": {}
   },
   "projects": {
-    "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - Copy\\Bezaleel_Bagoes_A_A_fdtest.csproj": {
+    "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\Bezaleel_Bagoes_A_A_fdtest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - Copy\\Bezaleel_Bagoes_A_A_fdtest.csproj",
+        "projectUniqueName": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\Bezaleel_Bagoes_A_A_fdtest.csproj",
         "projectName": "Bezaleel_Bagoes_A_A_fdtest",
-        "projectPath": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - Copy\\Bezaleel_Bagoes_A_A_fdtest.csproj",
+        "projectPath": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\Bezaleel_Bagoes_A_A_fdtest.csproj",
         "packagesPath": "C:\\Users\\Bezaleel Bagoes\\.nuget\\packages\\",
-        "outputPath": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - Copy\\obj\\",
+        "outputPath": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
