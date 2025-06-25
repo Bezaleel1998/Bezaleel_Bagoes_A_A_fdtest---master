@@ -7,6 +7,8 @@
 <div class="book-container">
     <h2>➕ Add a Book</h2>
 
+    <br></br>
+
     <form method="post" class="book-form">
         <div class="form-group">
             <label asp-for="Input.Title">Title:</label>
@@ -33,7 +35,10 @@
             <input asp-for="Input.Rating" type="number" min="0" max="5" step="0.1" class="form-control" />
         </div>
 
+        <br></br>
+
         <button type="submit" class="btn-login">💾 Save</button>
+        <br></br>
         <a asp-page="/BookList/Index" class="form-links">← Back</a>
     </form>
 </div>

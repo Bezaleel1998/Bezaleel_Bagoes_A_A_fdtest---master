@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|i:\\project\\dotnet\\bezaleel_bagoes_a_a_fdtest - master\\pages\\booklist\\landing\\books.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|solutionrelative:pages\\booklist\\landing\\books.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|i:\\project\\dotnet\\bezaleel_bagoes_a_a_fdtest - master\\pages\\booklist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|solutionrelative:pages\\booklist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|i:\\project\\dotnet\\bezaleel_bagoes_a_a_fdtest - master\\pages\\booklist\\landing\\books.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|solutionrelative:pages\\booklist\\landing\\books.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|i:\\project\\dotnet\\bezaleel_bagoes_a_a_fdtest - master\\pages\\booklist\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|solutionrelative:pages\\booklist\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|i:\\project\\dotnet\\bezaleel_bagoes_a_a_fdtest - master\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|solutionrelative:pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|i:\\project\\dotnet\\bezaleel_bagoes_a_a_fdtest - master\\wwwroot\\css\\bookpagestyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|solutionrelative:wwwroot\\css\\bookpagestyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|i:\\project\\dotnet\\bezaleel_bagoes_a_a_fdtest - master\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|solutionrelative:pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|i:\\project\\dotnet\\bezaleel_bagoes_a_a_fdtest - master\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|i:\\project\\dotnet\\bezaleel_bagoes_a_a_fdtest - master\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|i:\\project\\dotnet\\bezaleel_bagoes_a_a_fdtest - master\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|i:\\project\\dotnet\\bezaleel_bagoes_a_a_fdtest - master\\helpers\\usefullfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|solutionrelative:helpers\\usefullfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9771FA3-EDCA-4A01-A11D-BBE87F3A0483}|Bezaleel_Bagoes_A_A_fdtest.csproj|i:\\project\\dotnet\\bezaleel_bagoes_a_a_fdtest - master\\pages\\booklist\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +54,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 248,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookPageStyle.css",
+              "DocumentMoniker": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\wwwroot\\css\\BookPageStyle.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\BookPageStyle.css",
+              "ToolTip": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\wwwroot\\css\\BookPageStyle.css",
+              "RelativeToolTip": "wwwroot\\css\\BookPageStyle.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-24T17:56:20.176Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T04:01:52.813Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -48,59 +92,106 @@
               "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml",
               "ToolTip": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\Pages\\_ViewImports.cshtml",
               "RelativeToolTip": "Pages\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-24T18:17:43.077Z",
+              "WhenOpened": "2025-06-25T03:59:02.566Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BookPageStyle.css",
-              "DocumentMoniker": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\wwwroot\\css\\BookPageStyle.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\BookPageStyle.css",
-              "ToolTip": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\wwwroot\\css\\BookPageStyle.css",
-              "RelativeToolTip": "wwwroot\\css\\BookPageStyle.css",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-06-24T17:56:20.176Z",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\Pages\\BookList\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\BookList\\Edit.cshtml",
+              "ToolTip": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\Pages\\BookList\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\BookList\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T04:34:50.055Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\Pages\\BookList\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\BookList\\Index.cshtml",
-              "ToolTip": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\Pages\\BookList\\Index.cshtml",
-              "RelativeToolTip": "Pages\\BookList\\Index.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADEAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-24T17:54:17.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Books.cshtml",
               "DocumentMoniker": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\Pages\\BookList\\Landing\\Books.cshtml",
               "RelativeDocumentMoniker": "Pages\\BookList\\Landing\\Books.cshtml",
               "ToolTip": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\Pages\\BookList\\Landing\\Books.cshtml",
               "RelativeToolTip": "Pages\\BookList\\Landing\\Books.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAuwDAAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-24T17:54:01.438Z",
+              "WhenOpened": "2025-06-25T03:47:02.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\Pages\\BookList\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\BookList\\Index.cshtml",
+              "ToolTip": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\Pages\\BookList\\Index.cshtml",
+              "RelativeToolTip": "Pages\\BookList\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T03:47:15.883Z",
               "EditorCaption": ""
             }
           ]
         },
         {
           "DockedWidth": 192,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
+              "Title": "UsefullFunctions.cs",
+              "DocumentMoniker": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\Helpers\\UsefullFunctions.cs",
+              "RelativeDocumentMoniker": "Helpers\\UsefullFunctions.cs",
+              "ToolTip": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\Helpers\\UsefullFunctions.cs",
+              "RelativeToolTip": "Helpers\\UsefullFunctions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T04:02:18.063Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-25T04:02:28.037Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T04:02:33.102Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\Pages\\BookList\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\BookList\\Index.cshtml.cs",
@@ -113,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Books.cshtml.cs",
               "DocumentMoniker": "I:\\Project\\DotNet\\Bezaleel_Bagoes_A_A_fdtest - master\\Pages\\BookList\\Landing\\Books.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\BookList\\Landing\\Books.cshtml.cs",

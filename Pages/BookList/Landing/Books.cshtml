@@ -35,27 +35,33 @@
     }
     else
     {
-        <div class="book-list">
+        <div class="book-grid-livechart">
             @foreach (var book in Model.Books)
             {
-                <div class="book-item">
-                    <div class="book-card">
-                        <div class="book-card-image">
+                <div class="book-card-livechart">
+                    <div class="card-header">
+                        <div class="book-title">@book.Title</div>
+                        <div class="book-rating">Rating: @book.Rating @RenderStars(book.Rating)</div>
+                    </div>
+
+                    <div class="card-body-horizontal">
+                        <div class="book-image">
                             <img src="@book.ThumbnailUrl" alt="Cover" />
                         </div>
-
-                        <div class="book-card-details">
-                            <h3>@book.Title</h3>
-                            <p><em>by @book.Author</em></p>
-                            <p>Rating: @book.Rating @RenderStars(book.Rating)</p>
-                            <p>@book.Description</p>
-                            <p><small>Uploaded at: @book.CreatedAt.ToString("yyyy-MM-dd")</small></p>
+                        <div class="book-details-right">
+                            <div class="book-author"><strong>by</strong> @book.Author</div>
+                            <div class="book-description-scroll">@book.Description</div>
                         </div>
+                    </div>
+
+                    <div class="book-footer">
+                        <small>Uploaded at: @book.CreatedAt.ToString("yyyy-MM-dd")</small><br />
                     </div>
                 </div>
             }
         </div>
 
+        <br></br>
 
         <div class="pagination">
             Page:

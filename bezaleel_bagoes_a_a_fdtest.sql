@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jun 24, 2025 at 07:09 PM
+-- Generation Time: Jun 25, 2025 at 06:43 AM
 -- Server version: 10.11.9-MariaDB
 -- PHP Version: 8.2.12
 
@@ -64,10 +64,11 @@ INSERT INTO `books` (`book_id`, `user_id`, `title`, `author`, `description`, `th
 (31, 1, 'Game Development with Unity', 'Michelle Menard', 'GAME DEVELOPMENT WITH UNITY shows you how to use the Unity game engine, a multiplatform engine and editor in one, to build games that can be played on just about any platform available, from the web to the Wii and even on smartphones.', 'https://m.media-amazon.com/images/I/71O0CKQVUwL._SL1434_.jpg', 3.6, '2025-06-24 14:43:29'),
 (32, 1, 'Unity for Absolute Beginners', 'Sue Blackman', 'Unity for Absolute Beginners walks you through the fundamentals of creating a small third-person shooter game with Unity.\r\nUsing the free version of Unity to begin your game development career, you\'ll learn how to import, evaluate and manage your game resources to create awesome third-person shooters.\r\nThis book assumes that you have little or no experience with game development, scripting, or 3D assets, and that you\'re eager to start creating games as quickly as possible, while learning Unity in a fun and interactive environment.', 'https://media.springernature.com/full/springer-static/cover-hires/book/978-1-4302-6778-2?as=webp', 3.7, '2025-06-24 14:51:13'),
 (33, 1, 'Game Programming with Unity and C#: A Complete Beginner\'s Guide', 'Casey Hardman', '​Designed for beginners with no knowledge or experience in game development or programming, this book teaches the essentials of the Unity game engine, the C# programming language, and the art of object-oriented programming. New concepts are not only explained, but thoroughly demonstrated.', 'https://m.media-amazon.com/images/I/61Snx+TPvAL._SL1181_.jpg', 3.8, '2025-06-24 14:52:21'),
-(34, 29, 'SukaSuka Suka Suka WorldEnd Shuumatsu Nani Shitemasu Ka? Isogashii Desu Ka? Sukutte Moratte Ii Desu Ka?', 'Akira Kareno', 'Five hundred years have passed since the humans went extinct at the hands of the fearsome and mysterious \'Beasts.\' The surviving races now make their homes up on floating islands in the sky, out of reach of all, but the most mobile of Beasts. However, this new safe haven Règles Aile has a dark secret behind it. In order to defeat the Beasts, only a small group of young girls, the Leprechauns, can wield the ancient Dug Weapons needed to fend off invasions from these creatures.', 'https://static.wikia.nocookie.net/suka-suka/images/f/f8/Suka_Moka_Volume_6_-_Cover.png/revision/latest?cb=20180426033123', 3.7, '2025-06-24 21:58:12'),
+(34, 29, 'SukaSuka Suka Suka WorldEnd Shuumatsu Nani Shitemasu Ka? Isogashii Desu Ka? Sukutte Moratte Ii Desu Ka?', 'Akira Kareno', 'Five hundred years have passed since the humans went extinct at the hands of the fearsome and mysterious \'Beasts.\' The surviving races now make their homes up on floating islands in the sky, out of reach of all, but the most mobile of Beasts. However, this new safe haven Règles Aile has a dark secret behind it. In order to defeat the Beasts, only a small group of young girls, the Leprechauns, can wield the ancient Dug Weapons needed to fend off invasions from these creatures.', 'https://m.media-amazon.com/images/I/81Iaw9unPJL._SL1500_.jpg', 3.7, '2025-06-24 21:58:12'),
 (36, 29, 'Rokka no Yuusha', 'Ishio Yamagata', 'Six people called the Braves of the Six Flowers are chosen by the Goddess of Fate to defeat the Demon God (魔神, Majin). However, when they gather, there are seven heroes present, leading them to believe that one is an impostor and on the side of the Demon God. The landscape, architecture, and written language portrayed is very similar to Mesoamerican Maya or Aztec peoples.', 'https://upload.wikimedia.org/wikipedia/en/4/4c/Rokka_no_Y%C5%ABsha_light_novel_volume_1_cover.jpg', 3.7, '2025-06-24 22:02:16'),
 (37, 29, 'If It\'s for My Daughter, I\'d Even Defeat a Demon Lord', 'Chirolu', 'If It\'s for My Daughter, I\'d Even Defeat a Demon Lord (うちの娘の為ならば、俺はもしかしたら魔王も倒せるかもしれない。, Uchi no Ko no Tame Naraba, Ore wa Moshikashitara Maō mo Taoseru Kamoshirenai.) is a Japanese light novel series written by Chirolu and initially illustrated by Truffle until volume 2 where Kei assumed the illustration of the series. It began serialization online in August 2014 on the user-generated novel publishing website Shōsetsuka ni Narō. It was later acquired by Hobby Japan, which has published nine volumes since February 2015 under their HJ Novels imprint. The series is published in English by J-Novel Club.\r\n\r\nPlot : \r\n\r\nDale is a highly skilled adventurer who has made quite a name for himself despite his youth. One day on a job deep in the forest, he comes across a little devil girl named Latina who has almost wasted away. Unable to just leave her there to die, Dale takes her home and becomes her adoptive father.', 'https://upload.wikimedia.org/wikipedia/en/0/0c/If_It%27s_for_My_Daughter%2C_I%27d_Even_Defeat_a_Demon_Lord_light_novel_volume_1_cover.jpg', 4, '2025-06-24 22:04:16'),
-(38, 29, 'My Youth Romantic Comedy Is Wrong, as I Expected', 'Wataru Watari', 'The story follows two loners, the pragmatic Hachiman Hikigaya and beautiful Yukino Yukinoshita, who despite their varying personalities and ideals, offer help and advice to others as part of their school\'s Service Club, assisted by the cheerful and friendly Yui Yuigahama. It largely depicts various social situations faced by teens in a high school setting and the psychology driving their interactions.', 'https://upload.wikimedia.org/wikipedia/en/c/ca/My_Teen_Romantic_Comedy_SNAFU_cover.jpg', 4, '2025-06-24 22:09:22');
+(38, 29, 'My Youth Romantic Comedy Is Wrong, as I Expected', 'Wataru Watari', 'The story follows two loners, the pragmatic Hachiman Hikigaya and beautiful Yukino Yukinoshita, who despite their varying personalities and ideals, offer help and advice to others as part of their school\'s Service Club, assisted by the cheerful and friendly Yui Yuigahama. It largely depicts various social situations faced by teens in a high school setting and the psychology driving their interactions.', 'https://upload.wikimedia.org/wikipedia/en/c/ca/My_Teen_Romantic_Comedy_SNAFU_cover.jpg', 4, '2025-06-24 22:09:22'),
+(40, 29, 'Reincarnated as a Sword (転生したら剣でした Tensei Shitara Ken Deshita)', 'Yuu Tanaka', 'I opened my eyes to find myself in another world. For some odd reason, I ended up as a sword. Before my eyes laid a plain full of magic beasts, and so, I launched my body and flew in search of a partner, a wielder (females only).\r\n\r\nWait. Absorbing magic stones gets me skills? Oh hell yeah! This be fun! More, more, give me more! Gimme all your magic stones! Okay, yeah no , but I am accepting anything anyone’s willing to give.\r\n\r\nThis tale is one that follows your everyday nerd, normal as could be, save for the fact that he happened to reincarnate as a sword.', 'https://m.media-amazon.com/images/I/91NPGOoMltL._SL1500_.jpg', 4.5, '2025-06-25 11:39:44');
 
 -- --------------------------------------------------------
 
@@ -132,7 +133,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`user_id`, `name`, `email`, `password_hash`, `is_email_verified`, `created_at`) VALUES
-(1, 'Bezaleel', 'bezaleelbagoes@gmail.com', 'GF+NsyJx/iX1Yab8k4suJkMG7DBO2lGAB9F2SCY4GWk=', 1, '2025-06-23 16:45:36'),
+(1, 'Bezaleel', 'bezaleelbagoes@gmail.com', 'xZS6UKadRiZgGv73mCiqi+PtNkJPWdE7V+31B/N0Rb0=', 1, '2025-06-23 16:45:36'),
 (18, 'Miller', 'jbmiller11031998@gmail.com', 'MJiGjkYn1ENhos9Ww+sxk8z0ira46lUdklE20n9FJKg=', 1, '2025-06-23 19:42:10'),
 (19, 'Alice Johnson', 'alice@example.com', 'hashed_pw_1', 1, '2025-06-24 10:49:41'),
 (20, 'Bob Smith', 'bob@example.com', 'hashed_pw_2', 0, '2025-06-24 10:49:41'),
@@ -187,7 +188,7 @@ ALTER TABLE `users`
 -- AUTO_INCREMENT for table `books`
 --
 ALTER TABLE `books`
-  MODIFY `book_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=39;
+  MODIFY `book_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=41;
 
 --
 -- AUTO_INCREMENT for table `users`
